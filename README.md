@@ -15,5 +15,3 @@ You may also see any lint errors in the console.
 ### `json-server --watch ./src/DB/data.json --port 3001`
 
 Run json server for REST API
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
